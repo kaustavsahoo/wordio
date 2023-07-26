@@ -1,0 +1,91 @@
+{
+  "Food": {
+    "emoji": "🍽️",
+    "words": [
+      "pizza",
+      "sushi",
+      "chocolate",
+      "coffee",
+      "pasta",
+      "cheese",
+      "bread",
+      "salad",
+      "soup",
+      "burger",
+      "cake",
+      "tea",
+      "rice",
+      "noodles",
+      "sandwich",
+      "ice cream",
+      "curry",
+      "fish",
+      "chicken",
+      "steak",
+      "eggs",
+      "milk",
+      "butter",
+      "jam",
+      "honey"
+    ]
+  },
+  "Sports": {
+    "emoji": "⚽",
+    "words": [
+      "cricket",
+      "football",
+      "tennis",
+      "basketball",
+      "golf",
+      "hockey",
+      "volleyball",
+      "badminton",
+      "swimming",
+      "diving",
+      "cycling",
+      "skiing",
+      "snowboarding"
+    ]
+  },
+  "Animals": {
+    "emoji": "🐶",
+    "words": [
+      "tiger",
+      "lion",
+      "elephant",
+      "dog",
+      "cat",
+      "mouse",
+      "bird",
+      "fish",
+      "monkey",
+      "bear",
+      "panda",
+      "zebra",
+      "giraffe",
+      "crocodile",
+      "snake"
+    ]
+  },
+  "Jobs": {
+    "emoji": "💼",
+    "words": [
+      "teacher",
+      "doctor",
+      "lawyer",
+      "engineer",
+      "chef",
+      "writer",
+      "artist",
+      "actor",
+      "singer",
+      "dancer",
+      "pilot",
+      "driver",
+      "farmer",
+      "soldier",
+      "police",
+      "firefighter"
+    ]
+  }
+}
